@@ -1,4 +1,4 @@
-﻿ID,Age,Gender,Dream Weight,Actual Weight,BMI
+﻿id,age,gender,dream_weight,actual_weight,bmi
 1,45,Male,91.89253067,96.30111546,29.42627467
 2,25,Male,64.16509681,61.1046681,21.28634599
 3,20,Male,70.84622352,71.76672384,27.8995916

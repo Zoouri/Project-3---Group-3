@@ -1,4 +1,4 @@
-﻿ID,Calories Burn,Heart Rate,Age,Gender
+﻿id,calories_burnt,heart_rate,age,gender
 1,286.9598505,170,45,Male
 2,343.4530361,142,25,Male
 3,261.2234649,148,20,Male
