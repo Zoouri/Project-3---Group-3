@@ -1,4 +1,4 @@
-Participant ID,Age (Years),Gender,Exercise Type (1-10),Exercise Intensity,Exercise Duration (Minute),Calories Burnt (Cal),Calories Burnt (60 min),Heart Rate (BPM),BMI,Recorded Weight (Kg),Dream Weight (Kg)
+Participant ID,Age (Years),Gender,Exercise Type (4 and 9),Exercise Intensity,Exercise Duration (Minute),Calories Burnt (Cal),Calories Burnt (60 min),Heart Rate (BPM),BMI,Recorded Weight (Kg),Dream Weight (Kg)
 3,20,0,4,4,20,261.22,783.67,148,27.9,71,70
 7,18,0,9,10,53,457.63,518.07,103,34.59,61,65
 8,42,0,4,2,25,272.96,655.1,104,22.05,62,64
