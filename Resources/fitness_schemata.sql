@@ -31,19 +31,18 @@ CREATE TABLE age(
 	FOREIGN KEY(id) REFERENCES weight_bmi(id)
 );
 
--- Creating age table - for future CSV importation if desired
+-- Creating clean test table - for future CSV importation if desired
 CREATE TABLE clean_table_test (
-    Participant_id SERIAL PRIMARY KEY,
-    Age INT NOT NULL,
-    Gender INT NOT NULL,
-    "Exercise Type (1-10)" INT NOT NULL,
-    "Exercise Intensity" VARCHAR(250), 
+    "Participant ID" SERIAL PRIMARY KEY,
+    "Age (Years)" INT NOT NULL,
+    "Gender" INT NOT NULL,
+    "Exercise Type (4 and 9)" INT NOT NULL,
+    "Exercise Intensity" VARCHAR(250),
     "Exercise Duration (Minute)" INT,
     "Calories Burnt (Cal)" FLOAT,
     "Calories Burnt (60 min)" FLOAT,
     "Heart Rate (BPM)" INT NOT NULL,
-    BMI FLOAT NOT NULL,
+    "BMI" FLOAT NOT NULL,
     "Recorded Weight (Kg)" INT NOT NULL,
     "Dream Weight (Kg)" INT NOT NULL
 );
-
