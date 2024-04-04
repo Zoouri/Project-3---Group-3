@@ -207,7 +207,8 @@ With these user instructions, you're now equipped to embark on your data analysi
 
 #### Resources & Links:
 
-Kaggle WHO - A report using large dataset of fitness and exercise metrics.
+Kaggle - A report using large dataset of fitness and exercise metrics. 
+`https://www.kaggle.com/datasets/aakashjoshi123/exercise-and-fitness-metrics-dataset`
 
 Cover Photo Source: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4761631-healthy-families-concept-isolated-person-situations-collection-of-scenes-with-people-parents-with-children-go-in-for-sports-compete-and-active-lifestyle-mega-set-vector-illustration-in-flat-design&psig=AOvVaw0w0ooOd7TrbqvSQoh-N53a&ust=1711527016814000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj-h7K9kYUDFQAAAAAdAAAAABAT`
 
