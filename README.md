@@ -59,6 +59,65 @@ The pipeline of the data extraction process was visually represented using a gra
 * Loaded the table with CSV file to guarantee success for future users.
 * Exported cleaned and transformed, final panda dataframe into our SQL database ready for analysis.
 
+## User Interface Function:
+
+This function provides a user-friendly interface for interacting with data analysis tools. It prompts the user to choose specific columns from a dataset, select a sorting method, specify a row limit, and offers options to save the filtered data as a CSV file or load it into a SQL database. Additionally, it allows users to visualize the analysis plot and save the plot for future reference.
+
+*Key Features:*
+
+
+1. Column Selection:
+
+
+* Users can choose columns of interest from the dataset for analysis.
+
+2. Sorting Method:
+
+* Provides options for sorting the data based on specific criteria chosen by the user.
+
+3. Row Limit:
+
+
+* Allows users to specify a limit on the number of rows to be displayed or analyzed.
+
+4. CSV Export:
+
+
+* Offers the functionality to save the filtered data as a CSV file for external use.
+
+5. SQL Database Integration:
+
+
+* Provides the option to load the filtered data directly into a SQL database for further analysis or storage.
+
+6. Analysis Plot Visualization:
+
+
+* Enables users to visualize the analysis plot generated from the selected data columns.
+
+7. Plot Saving:
+
+
+* Allows users to save the generated plot for future reference or sharing.
+
+8. Usage:
+
+
+* Users interact with the function through a series of prompts and input selections.
+
+* The function guides users through each step, ensuring a seamless and intuitive experience.
+
+Benefits:
+
+
+* Streamlines the data analysis process by providing a consolidated interface for various analysis tasks.
+
+* Enhances user control and flexibility in exploring and analyzing datasets.
+
+* Simplifies data visualization and sharing, enabling efficient communication of insights.
+
+**Overall, this function serves as a versatile tool for data exploration and analysis, empowering users to derive valuable insights from their datasets with ease.**
+
 ### Ethical Considerations
 The selected dataset is synthetic, ensuring the protection of individual's privacy and adhering to ethical principles. By opting for synthetic data, privacy concerns associated with the use of real world data are effectively mitigated. This choice alligns with ethical standards, prioritizing the safeguard of personal information while enabling meaningful analysis and insights to be derived.
 
@@ -66,7 +125,7 @@ The selected dataset is synthetic, ensuring the protection of individual's priva
 
 *Welcome to our data analysis project! In this journey, we'll navigate through a vast dataset, using the powerful tools of SQL and the flexibility of Jupyter Notebook to shape and mold our data into meaningful insights. Our mission is to uncover hidden patterns and trends, leveraging the prowess of Pandas and other Python libraries along the way.*
 
-**Option 1 Instructions**
+**Option 1 Instructions:**
 
 1. Download Resources:
 
@@ -119,6 +178,8 @@ Replace the placeholders ('username', 'password', 'hostname', 'port', and 'datab
 * Your data is now ready for analysis.
 
 * Explore the dataset and perform any desired analyses using the provided notebook.
+
+Please, see the `User Interface Function` description for more insight on how to interact with the code.
 
 With these user instructions, you're now equipped to embark on your data analysis journey. Happy exploring! 
 ![Homer](ss/homer.gif)
